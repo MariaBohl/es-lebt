@@ -1,0 +1,3 @@
+Ich bin eine einfache Textdatei, die Maria versucht einzuchecken.
+
+Und diese Zeile ist dafür da um $ git diff auszuprobieren.
